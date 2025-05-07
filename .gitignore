@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+#  Usually contains the output of building distributions
+dist/
+build/
+*.spec
+
+# Setuptools distribution folder
+*.egg-info/
+*.egg
+
+# Test and coverage results
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# mypy, pylint, pyright
+.mypy_cache/
+.pyright/
+
+# VSCode and other editor settings
+.vscode/
+.idea/
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+
+# SQLite databases
+*.sqlite3
+
+# MacOS
+.DS_Store
